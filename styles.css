@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #180A0A;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-shadow: 5px 0 #180A0A;
+  font-size: 8rem;
+  color: #711A75;
+}
+
+p {
+  font-size: 2rem;
+  color: #711A75;
+  font-family: 'Pacifico', cursive;
+  margin-right: 2rem;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+
+}
